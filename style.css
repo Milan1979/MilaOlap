@@ -1,0 +1,21 @@
+.carousel-container {
+	
+}
+
+.navigation {
+	color: #00456e;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+	top: -50px;
+}
+
+.navigation:hover {
+	background-color: #00456e;
+    color: white;
+}
+
+.imageList {
+	padding: 40px;
+}
